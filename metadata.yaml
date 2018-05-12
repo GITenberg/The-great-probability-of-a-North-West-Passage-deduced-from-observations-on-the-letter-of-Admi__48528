@@ -1,10 +1,16 @@
 _repo: The-great-probability-of-a-North-West-Passage-deduced-from-observations-on-the-letter-of-Admi__48528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jefferys, Thomas
     gutenberg_agent_id: '44837'
     url: http://www.gutenberg.org/2009/agents/44837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48528#The-great-probability-of-a-North-West-Passage-deduced-from-observations-on-the-letter-of-Admi_
 gutenberg_issued: '2015-03-19'
 gutenberg_type: Text
 identifiers:
