@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "The great probability of a North West Passage\r\ndeduced from observations\
   \ on the letter of Admiral de Fonte"
 url: http://www.gutenberg.org/ebooks/48528
